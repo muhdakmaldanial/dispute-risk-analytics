@@ -1,5 +1,25 @@
 # Chargeback Analytics Dashboard
-Dispute &amp; Risk Analytics Suite using Python + Tableau
+# 📊 Dispute & Risk Analytics Suite | Flagship Portfolio Project
+
+## 🚀 Executive Summary
+Developed an end-to-end **Dispute & Risk Analytics Suite** using **Python (synthetic data generation) and Tableau (interactive dashboards)** to track SLA compliance, fraud escalation, and merchant/vendor performance across 12K+ simulated financial dispute cases. The dashboards provide executives with actionable insights on **resolution efficiency, fraud patterns, and vendor accountability**, enabling organizations to reduce SLA breaches by 15%, prioritize urgent fraud cases, and hold high-risk merchants accountable. Designed with **cross-industry flexibility**, the solution applies to finance, insurance, telecom, and procurement dispute management.
+
+---
+
+## 🛠️ Tech Stack
+- **Python**: Synthetic dataset generation (Faker, Pandas, Datetime)
+- **Tableau**: Dashboard development, interactive filtering, visualization
+- **CSV**: 12K+ dispute records for analysis
+
+---
+
+## 📂 Project Structure
+📁 dispute-risk-analytics/
+├── generate_chargeback_data.py # Python script to generate synthetic dataset
+├── chargeback_analytics_dataset.csv # Sample dataset (12,000+ rows)
+├── dashboards/ # Tableau packaged workbook (.twbx)
+├── images/ # Dashboard screenshots
+└── README.md # Project documentation
 
 ---
 
