@@ -38,8 +38,7 @@ Dispute &amp; Risk Analytics Suite using Python + Tableau
 ---
 
 ## 🔗 Links
-- [Tableau Public Dashboards][tableau-chargeback-analytics-dashboard]
-[tableau-chargeback-analytics-dashboard]: https://public.tableau.com/app/profile/muhammad.akmal.danial.mohd.fadzlen/viz/ChargebackAnalyticsDashboard/DisputeResolutionTracker
+- [View on Tableau Public](https://public.tableau.com/app/profile/muhammad.akmal.danial.mohd.fadzlen/viz/ChargebackAnalyticsDashboard/DisputeResolutionTracker)
 - [Notion/Portfolio Case Study](#)  
 - [LinkedIn Post Showcase](#)  
 
